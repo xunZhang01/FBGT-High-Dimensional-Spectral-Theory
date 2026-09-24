@@ -67,6 +67,26 @@ If you use this work, please cite:
 
 Keywords: spectral theory, cognitive manifolds, Tarski boundary, Gödel incompleteness, Riemann Hypothesis
 
+Versions
+
+Version v4
+10.5281/zenodo.22865956
+Sep 21, 2026
+
+Version v3
+10.5281/zenodo.22865939
+Sep 21, 2026
+
+Version v2
+10.5281/zenodo.22865869
+Sep 21, 2026
+
+Version V1
+10.5281/zenodo.22857162
+Sep 20, 2026
+
+View all 4 versions
+Cite all versions? You can cite all versions by using the DOI 10.5281/zenodo.22857161. This DOI represents all versions, and will always resolve to the latest one. Read more.
  
 
 知识属于全人类。
